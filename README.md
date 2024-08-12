@@ -1,2 +1,3 @@
-# riahu21
-this is my first git repo
+# rishu21
+this is my first git repository
+Author - Rishab ohri
