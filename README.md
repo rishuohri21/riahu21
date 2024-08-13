@@ -1,3 +1,3 @@
 # rishu21
 this is my first git repository
-Author - Rishab ohri
+Author - Rishab ohri sir
